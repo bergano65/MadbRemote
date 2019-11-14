@@ -21,7 +21,7 @@
             <Button x:Name="_backBtn" Margin="5,5,5,5" Width="120" Click="_backBtn_Click">Back</Button>
             <Button x:Name="_pwdBtn" Margin="5,5,5,5" Width="120" Click="_pwdBtn_Click">Password</Button>
             <Button x:Name="_typeBtn" Margin="5,5,5,5" Width="120" Click="_typeBtn_Click">Type</Button>
-            <TextBox x:Name="_typeTxt" Margin="5,5,5,5" Width="120" AcceptsReturn="True" Height="50"/>
+            <TextBox x:Name="_typeTxt" Margin="5,5,5,5" Width="120" AcceptsReturn="True" Height="250"/>
         </StackPanel>
     </Grid>
 </Window>
